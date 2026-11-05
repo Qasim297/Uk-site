@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts.bak
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+
+# Secrets - never commit real credentials
+.env
+.env.local
+.env.*.local
