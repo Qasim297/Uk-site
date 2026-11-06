@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <h3 className="footer-title">Get in Touch</h3>
+          <h3 className="footer-title">Contact Us</h3>
           <ul className="footer-contact">
             <li>
               <Mail size={16} /> <a href={`mailto:${site.email}`}>{site.email}</a>

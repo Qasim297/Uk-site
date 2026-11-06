@@ -14,7 +14,7 @@ export const site = {
   description:
     'Check UK vehicle history, MOT records, mileage, tax status and ULEZ compliance instantly. Free MOT history checks and premium vehicle history reports from AutoCheck Pro.',
   owner: 'Muhammad Qasim',
-  email: 'support@autocheckpro.co.uk',
+  email: 'mq7867867@gmail.com',
   location: 'United Kingdom',
   supportHours: 'Mon – Fri, 9:00am – 6:00pm (UK time)',
   year: 2026,
